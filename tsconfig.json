@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es2020",
     "module": "commonjs",
-    "outDir": "./dist",
+    "outDir": "./public", // Set the output directory to "public"
     "rootDir": "./src",
     "strict": true,
     "esModuleInterop": true,
